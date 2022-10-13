@@ -1,0 +1,7 @@
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/CMakeFiles/rebuild_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/CMakeFiles/edit_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/subpro1/CMakeFiles/rebuild_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/subpro1/CMakeFiles/edit_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/myfolder/CMakeFiles/rebuild_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/myfolder/CMakeFiles/edit_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lab_C_Make/project/build/myfolder/CMakeFiles/myapp.dir
