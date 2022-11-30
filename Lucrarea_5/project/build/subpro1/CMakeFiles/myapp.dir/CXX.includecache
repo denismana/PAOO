@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_5/project/subpro1/pb.cpp
+iostream
+-
+cstring
+-
+
