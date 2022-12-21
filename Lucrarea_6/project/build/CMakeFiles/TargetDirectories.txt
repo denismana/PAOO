@@ -1,0 +1,5 @@
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_6/project/build/CMakeFiles/rebuild_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_6/project/build/CMakeFiles/edit_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_6/project/build/subpro1/CMakeFiles/rebuild_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_6/project/build/subpro1/CMakeFiles/edit_cache.dir
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_6/project/build/subpro1/CMakeFiles/myapp.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denismana/Documents/PAOO/PAOO/Lucrarea_6/project/subpro1/pb.cpp
+memory
+-
+type_traits
+-
+tr1/memory
+-
+iostream
+-
+cstring
+-
+
